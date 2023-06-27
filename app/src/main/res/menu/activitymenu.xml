@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menCalcMedia"
+        android:title="Calcular média" />
+    <item
+        android:id="@+id/menFinalizar"
+        android:title="Finalizar app" />
+</menu>
